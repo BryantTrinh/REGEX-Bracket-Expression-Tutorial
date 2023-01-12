@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Bracket Expressions
 
 Before we get into Bracket Expressions, we must talk about what Regex is. Regex is a shorthand term for "regular expressions". These are patterns that can be used to match characters in a string.
 
